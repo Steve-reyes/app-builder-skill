@@ -46,10 +46,15 @@ The file must follow the structure in `references/build-plan-template.md`. Key s
 ## 3. MVP That CAN Be Built
 ## 4. Complete Project Infra Design
 ### Architecture Overview
+### Product Requirements Document (PRD)
+### Competitive Landscape Matrix
 ### Directory Structure
 ### Database Schema (PostgreSQL)
 ### API Endpoints
 ### AI Agent Design
+### SEO & Content Strategy
+### Growth & Viral Loops
+### Revenue Model & Unit Economics
 ### Tech Stack Summary
 ### Estimated MVP Build Time
 ### Cost Estimates (Monthly)
@@ -92,3 +97,8 @@ git status  # Should show clean
 
 ### references/
 - `build-plan-template.md` — The full template structure used for every build plan
+- `prd-template.md` — Product Requirements Document template (user stories, KPIs, RICE scoring)
+- `competitive-landscape.md` — Feature comparison matrix across competitors, positioning map
+- `seo-content-strategy.md` — Keyword clusters, content funnel, calendar, backlink strategy
+- `growth-loops.md` — Viral loop mechanics, acquisition channels, referral program design
+- `revenue-model.md` — Pricing tiers, unit economics (CAC/LTV), break-even, revenue projections
